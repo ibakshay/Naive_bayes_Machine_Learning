@@ -1,3 +1,3 @@
 # Naive_bayes_Machine_Learning
 
-cla-assistant
+cla-assistant June 17
